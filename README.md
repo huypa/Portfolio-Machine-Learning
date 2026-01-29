@@ -60,12 +60,12 @@ This assignment focuses on unsupervised learning techniques and neural networks,
 
 ## 📂 Project Structure
 All the detail implementations and reports are in these below files:
-## Assignment1
+### Assignment1
 - a1_sec1.ipynb / pdf
 - a1_sec2.ipynb / pdf
 - a1_sec3.ipynb / pdf
 
-## Assignment2
+### Assignment2
 - a2_sec1.ipynb / pdf
 - a2_sec2.ipynb / pdf
 - a2_sec3.ipynb / pdf
